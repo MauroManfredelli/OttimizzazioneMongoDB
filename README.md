@@ -1,1 +1,3 @@
 # OttimizzazioneMongoDB
+
+Progetto universitario
