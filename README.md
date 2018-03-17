@@ -1,3 +1,3 @@
 # OttimizzazioneMongoDB
 
-Progetto universitario
+Progetto universitario: ottimizzazione delle interrogazioni in MongoDB
